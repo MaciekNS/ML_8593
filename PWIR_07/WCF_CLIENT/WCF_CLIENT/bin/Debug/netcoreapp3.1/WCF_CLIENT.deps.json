@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WCF_CLIENT/1.0.0": {
+        "runtime": {
+          "WCF_CLIENT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WCF_CLIENT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
